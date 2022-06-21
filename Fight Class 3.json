@@ -8,11 +8,9 @@
     "007": {
       "title": "007",
       "volume": "1",
-      "last_updated": "1655774883",
+      "last_updated": "1655775002",
       "groups": {
-        "Kengan Project": [
-          "https://imgur.com/a/W9lnW0L"
-        ]
+        "Kengan Project": "/proxy/api/imgur/chapter/W9lnW0L"
       }
     }
   }
